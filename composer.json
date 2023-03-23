@@ -1,0 +1,13 @@
+{
+  "description": "Finding area and perimeter on certain types of geometric shapes",
+  "authors": [
+    {
+      "name": "Tiffany Taylor"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Shapes\\": "src/"
+    }
+  }
+}
